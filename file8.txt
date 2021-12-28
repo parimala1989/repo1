@@ -1,1 +1,5 @@
+<<<<<<< remove conflicts
 create conflict file
+=======
+file on remote file8
+>>>>>>> 748fcdefbed5cbed699cc13b59c4212e80368a91
